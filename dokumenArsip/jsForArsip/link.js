@@ -5,7 +5,7 @@ function loading() {
 
     setTimeout(() => {
       tunggu.style.display = "none";
-    }, 10000);
+    }, 8000);
   }
 }
 function Home() {
